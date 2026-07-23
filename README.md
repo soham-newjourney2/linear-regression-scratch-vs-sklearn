@@ -21,6 +21,8 @@ The goal of this project is to implement core linear regression algorithms from 
 1. **Target Variable (`charges`):** Highly right-skewed distribution. Most individual medical claims fall under $15,000, while a long tail extends up to $60,000+.
 2. **Smoking Status:** The strongest predictor of medical costs. Smokers consistently experience significantly higher charges across all age groups and BMI ranges.
 3. **Feature Scaling:** Scaling continuous features (`age`, `bmi`) with `StandardScaler` was essential for ensuring steady gradient updates and fast convergence in Gradient Descent.
+<img src="Plot/eda_medical_charges.png" alt="Image Of Analysis" width="600"/>
+   
 
 ---
 
