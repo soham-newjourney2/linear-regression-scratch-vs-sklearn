@@ -53,7 +53,7 @@ All models were evaluated on an **80/20 train-test split** (scaled test set of 2
 ### To run the project locally:
 
 ```bash
-git clone [https://github.com/Ysoham-newjourney2/linear-regression-scratch-vs-sklearn.git](https://github.com/soham-newjourney2/linear-regression-scratch-vs-sklearn.git)
+git clone [https://github.com/soham-newjourney2/linear-regression-scratch-vs-sklearn.git](https://github.com/soham-newjourney2/linear-regression-scratch-vs-sklearn.git)
 cd linear-regression-scratch-vs-sklearn
 pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook
